@@ -21,12 +21,13 @@ While Sora is not yet officially released, we are gathering prompts comprehensiv
 
 ---
 # Table of Contnet
-This repository is orgnized as follows:
-[Techniques](#techniques)
-[Video Generation Prompts](#video-generation-prompts)
-[Animating Images Prompts](#animating-images-prompts)
-[Video-to-video Editing Prompts](#video-to-video-editing-prompts)
-[Image Generation Prompts](#image-generation-prompts)
+This repository is organized as follows:
+
+[Techniques](#techniques)</br>
+[Video Generation Prompts](#video-generation-prompts)</br>
+[Animating Images Prompts](#animating-images-prompts)</br>
+[Video-to-video Editing Prompts](#video-to-video-editing-prompts)</br>
+[Image Generation Prompts](#image-generation-prompts)</br>
 
 # Techniques
 Using simple, natural language, we can generate the desired videos or images. However, mastering this still requires skill. From lighting and style to scenery and characters, expertise is essential. This repository aims to collect these techniques and inspire you. 
