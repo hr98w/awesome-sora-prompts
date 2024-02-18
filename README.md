@@ -5,7 +5,13 @@
 ---
 [Sora](https://openai.com/sora) is an AI model that can create realistic and imaginative scenes from text instructions from OpenAI. OpenAI is teaching AI to understand and simulate the physical world in motion, with the goal of training models that help people solve problems that require real-world interaction.
 
-Sora can generate videos up to a minute long while maintaining visual quality and adherence to the user’s prompt.
+Sora can provide following functions:
+* text to video
+* animating images
+* extending generated videos
+* video to video editing
+* connecting videos
+* image generation (text to image)
 
 📖 In this repository, you will find a variety of prompts that can be used with Sora. We have assigned different tags based on the style of the videos, allowing you to quickly find examples of prompts and the generated videos according to the tags, and modify them as needed.
 
@@ -15,7 +21,7 @@ While Sora is not yet officially released, we are gathering prompts comprehensiv
 
 ---
 # Techniques
-I believe prompts will soon become obsolete. Using simple, natural language, we can generate the desired videos or images. However, mastering this still requires skill. From lighting and style to scenery and characters, expertise is essential. This repository aims to collect these techniques and inspire you. 
+Using simple, natural language, we can generate the desired videos or images. However, mastering this still requires skill. From lighting and style to scenery and characters, expertise is essential. This repository aims to collect these techniques and inspire you. 
 
 By simply adding the following keywords, you can efficiently achieve the desired effect.
 
@@ -27,11 +33,13 @@ By simply adding the following keywords, you can efficiently achieve the desired
 
 ## Stylized keyword
 > depth of field </br>
+> The shot is clear and sharp, with a shallow depth of field </br>
 > vivid color </br>
 > cinematic </br>
+> 3D digital render art style </br>
 
 
-# Prompts
+# Video Generation Prompts
 ## Official example
 All official videos can be accessed from [here](https://openai.com/sora). No other official examples will be placed in this repository.
 Contributed by: [OpenAI](https://openai.com/sora) Reference: [OpenAI](https://openai.com/sora#capabilities)
@@ -39,10 +47,22 @@ Contributed by: [OpenAI](https://openai.com/sora) Reference: [OpenAI](https://op
 
 Generated Videos: [link](https://www.youtube.com/watch?v=g0jt6goVz04)
 
+# Animating Images Prompts
+
+# Video-to-video Editing Prompts
+## Official example
+Contributed by: [OpenAI](https://openai.com/sora) Reference: [OpenAI](https://openai.com/research/video-generation-models-as-world-simulators)
+> Change the settingto be in a lush jungle
+ 
+# Image Generation Prompts
+## Official example
+Contributed by: [OpenAI](https://openai.com/sora) Reference: [OpenAI](https://openai.com/research/video-generation-models-as-world-simulators)
+> Vibrant coral reef teeming with colorful fish and sea creatures
+
 ---
 
 ## Contributing
-Your contributions are always welcome! Please read [this](https://github.com/hr98w/awesome-sora-prompts/blob/main/CONTRIBUTING.md) before creating PRs.
+Your contributions are always welcome! Please read [this](./CONTRIBUTING.md) before creating PRs.
 <a href="https://github.com/hr98w/awesome-sora-prompts/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hr98w/awesome-sora-prompts" />
 </a>
