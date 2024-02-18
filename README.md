@@ -19,20 +19,20 @@ I believe prompts will soon become obsolete. Using simple, natural language, we 
 
 By simply adding the following keywords, you can efficiently achieve the desired effect.
 
-### Photographic technique/device
-> cinematic film shot in 35mm
-> cinematic 35mm film
-> cinematic film shot in 70mm
-> shot with a mobile phone camera
+## Photographic technique/device
+> cinematic film shot in 35mm </br>
+> cinematic 35mm film </br>
+> cinematic film shot in 70mm </br>
+> shot with a mobile phone camera </br>
 
-### Stylized keyword
-> depth of field
-> vivid color
-> cinematic
+## Stylized keyword
+> depth of field </br>
+> vivid color </br>
+> cinematic </br>
 
 
 # Prompts
-### Official example
+## Official example
 All official videos can be accessed from [here](https://openai.com/sora). No other official examples will be placed in this repository.
 Contributed by: [OpenAI](https://openai.com/sora) Reference: [OpenAI](https://openai.com/sora#capabilities)
 > A stylish woman walks down a Tokyo street filled with warm glowing neon and animated city signage. She wears a black leather jacket, a long red dress, and black boots, and carries a black purse. She wears sunglasses and red lipstick. She walks confidently and casually. The street is damp and reflective, creating a mirror effect of the colorful lights. Many pedestrians walk about.
