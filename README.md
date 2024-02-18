@@ -20,7 +20,7 @@ While Sora is not yet officially released, we are gathering prompts comprehensiv
 
 
 ---
-# Table of Contnet
+# Table of Content
 This repository is organized as follows:
 
 [Techniques](#techniques)</br>
