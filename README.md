@@ -1,5 +1,4 @@
-<p align="center"><h1>🧠 Awesome Sora Prompts</h1></p>
-
+# 🧠 Awesome Sora Prompts
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ---
@@ -17,6 +16,8 @@ Sora can provide following functions:
 
 
 While Sora is not yet officially released, we are gathering prompts comprehensively to help you quickly get started generating the videos you want with Sora. We hope you find these prompts useful and have fun using Sora!
+
+**[View on Github](https://github.com/hr98w/awesome-sora-prompts)**
 
 
 ---
@@ -71,7 +72,7 @@ Contributed by: [OpenAI](https://openai.com/sora) Reference: [OpenAI](https://op
 ---
 
 ## Contributing
-Your contributions are always welcome! Please read [this](./CONTRIBUTING.md) before creating PRs.
+Your contributions are always welcome! Please read [this](https://github.com/hr98w/awesome-sora-prompts/blob/main/CONTRIBUTING.md) before creating PRs.
 <a href="https://github.com/hr98w/awesome-sora-prompts/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hr98w/awesome-sora-prompts" />
 </a>
