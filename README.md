@@ -19,6 +19,9 @@ While Sora is not yet officially released, we are gathering prompts comprehensiv
 
 **[View on Github](https://github.com/hr98w/awesome-sora-prompts)**
 
+**[View on Website](https://prompts-sora.com)**
+
+
 
 ---
 # Table of Content
