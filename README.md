@@ -76,6 +76,7 @@ Contributed by: [OpenAI](https://openai.com/sora) Reference: [OpenAI](https://op
 
 ## Contributing
 Your contributions are always welcome! Please read [this](https://github.com/hr98w/awesome-sora-prompts/blob/main/CONTRIBUTING.md) before creating PRs.
+
 <a href="https://github.com/hr98w/awesome-sora-prompts/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hr98w/awesome-sora-prompts" />
 </a>
