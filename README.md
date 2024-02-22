@@ -27,11 +27,11 @@ While Sora is not yet officially released, we are gathering prompts comprehensiv
 # Table of Content
 This repository is organized as follows:
 
-[Techniques](#techniques)</br>
-[Video Generation Prompts](#video-generation-prompts)</br>
-[Animating Images Prompts](#animating-images-prompts)</br>
-[Video-to-video Editing Prompts](#video-to-video-editing-prompts)</br>
-[Image Generation Prompts](#image-generation-prompts)</br>
+* [Techniques](#techniques)
+* [Video Generation Prompts](#video-generation-prompts)
+* [Animating Images Prompts](https://github.com/hr98w/awesome-sora-prompts/blob/main/animating-prompts.md)
+* [Video-to-video Editing Prompts](https://github.com/hr98w/awesome-sora-prompts/blob/main/video-editting-prompts.md)
+* [Image Generation Prompts](https://github.com/hr98w/awesome-sora-prompts/blob/main/image-generation-prompts.md)
 
 # Techniques
 Using simple, natural language, we can generate the desired videos or images. However, mastering this still requires skill. From lighting and style to scenery and characters, expertise is essential. This repository aims to collect these techniques and inspire you. 
@@ -59,18 +59,6 @@ Contributed by: [OpenAI](https://openai.com/sora) Reference: [OpenAI](https://op
 > A stylish woman walks down a Tokyo street filled with warm glowing neon and animated city signage. She wears a black leather jacket, a long red dress, and black boots, and carries a black purse. She wears sunglasses and red lipstick. She walks confidently and casually. The street is damp and reflective, creating a mirror effect of the colorful lights. Many pedestrians walk about.
 
 Generated Videos: [link](https://www.youtube.com/watch?v=g0jt6goVz04)
-
-# Animating Images Prompts
-
-# Video-to-video Editing Prompts
-## Official example
-Contributed by: [OpenAI](https://openai.com/sora) Reference: [OpenAI](https://openai.com/research/video-generation-models-as-world-simulators)
-> Change the settingto be in a lush jungle
- 
-# Image Generation Prompts
-## Official example
-Contributed by: [OpenAI](https://openai.com/sora) Reference: [OpenAI](https://openai.com/research/video-generation-models-as-world-simulators)
-> Vibrant coral reef teeming with colorful fish and sea creatures
 
 ---
 
