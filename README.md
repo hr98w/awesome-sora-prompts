@@ -55,9 +55,7 @@ By simply adding the following keywords, you can efficiently achieve the desired
 
 # Video Generation Prompts
 
-## ✨ Official Video Generation Prompts
-
-Contributed by: [OpenAI](https://openai.com/sora) Reference: [OpenAI](https://openai.com/sora#capabilities)
+## Official Video Generation Prompts
 
 <details>
 <summary>Click to see more examples</summary>
@@ -236,9 +234,9 @@ Generated Videos: [link](https://cdn.openai.com/sora/videos/photoreal-train.mp4)
 
 </details>
 
-## 🐦 Official Video Generation Prompts (Twitter)
+## Official Video Generation Prompts (Twitter)
 
-## 🎵 Official Video Generation Prompts (Tiktok)
+## Official Video Generation Prompts (Tiktok)
 
 <details>
 <summary>Click to see more examples</summary>
