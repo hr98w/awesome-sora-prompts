@@ -129,6 +129,110 @@ Generated Videos: [link](https://cdn.openai.com/sora/videos/stack-of-tvs.mp4)
 
 Generated Videos: [link](https://cdn.openai.com/sora/videos/big-eyed-fluff-ball.mp4)
 
+> The camera follows behind a white vintage SUV with a black roof rack as it speeds up a steep dirt road surrounded by pine trees on a steep mountain slope, dust kicks up from it’s tires, the sunlight shines on the SUV as it speeds along the dirt road, casting a warm glow over the scene. The dirt road curves gently into the distance, with no other cars or vehicles in sight. The trees on either side of the road are redwoods, with patches of greenery scattered throughout. The car is seen from the rear following the curve with ease, making it seem as if it is on a rugged drive through the rugged terrain. The dirt road itself is surrounded by steep hills and mountains, with a clear blue sky above with wispy clouds.
+
+Generated Videos: [link](https://cdn.openai.com/sora/videos/suv-in-the-dust.mp4)
+
+> Reflections in the window of a train traveling through the Tokyo suburbs.
+
+Generated Videos: [link](https://cdn.openai.com/sora/videos/train-window.mp4)
+
+> A drone camera circles around a beautiful historic church built on a rocky outcropping along the Amalfi Coast, the view showcases historic and magnificent architectural details and tiered pathways and patios, waves are seen crashing against the rocks below as the view overlooks the horizon of the coastal waters and hilly landscapes of the Amalfi Coast Italy, several distant people are seen walking and enjoying vistas on patios of the dramatic ocean views, the warm glow of the afternoon sun creates a magical and romantic feeling to the scene, the view is stunning captured with beautiful photography.
+
+Generated Videos: [link](https://cdn.openai.com/sora/videos/amalfi-coast.mp4)
+
+> A large orange octopus is seen resting on the bottom of the ocean floor, blending in with the sandy and rocky terrain. Its tentacles are spread out around its body, and its eyes are closed. The octopus is unaware of a king crab that is crawling towards it from behind a rock, its claws raised and ready to attack. The crab is brown and spiny, with long legs and antennae. The scene is captured from a wide angle, showing the vastness and depth of the ocean. The water is clear and blue, with rays of sunlight filtering through. The shot is sharp and crisp, with a high dynamic range. The octopus and the crab are in focus, while the background is slightly blurred, creating a depth of field effect.
+
+Generated Videos: [link](https://cdn.openai.com/sora/videos/octopus-and-crab.mp4)
+
+> A flock of paper airplanes flutters through a dense jungle, weaving around trees as if they were migrating birds.
+
+Generated Videos: [link](https://cdn.openai.com/sora/videos/paper-airplanes.mp4)
+
+> A cat waking up its sleeping owner demanding breakfast. The owner tries to ignore the cat, but the cat tries new tactics and finally the owner pulls out a secret stash of treats from under the pillow to hold the cat off a little longer.
+
+Generated Videos: [link](https://cdn.openai.com/sora/videos/cat-on-bed.mp4)
+
+> Borneo wildlife on the Kinabatangan River
+
+Generated Videos: [link](https://cdn.openai.com/sora/videos/birds-over-river.mp4)
+
+> A Chinese Lunar New Year celebration video with Chinese Dragon.
+
+Generated Videos: [link](https://cdn.openai.com/sora/videos/chinese-new-year-dragon.mp4)
+
+> Tour of an art gallery with many beautiful works of art in different styles.
+
+Generated Videos: [link](https://cdn.openai.com/sora/videos/art-museum.mp4)
+
+> Beautiful, snowy Tokyo city is bustling. The camera moves through the bustling city street, following several people enjoying the beautiful snowy weather and shopping at nearby stalls. Gorgeous sakura petals are flying through the wind along with snowflakes.
+
+Generated Videos: [link](https://cdn.openai.com/sora/videos/tokyo-in-the-snow.mp4)
+
+> A stop motion animation of a flower growing out of the windowsill of a suburban house.
+
+Generated Videos: [link](https://cdn.openai.com/sora/videos/flower-blooming.mp4)
+
+> The story of a robot’s life in a cyberpunk setting.
+
+Generated Videos: [link](https://cdn.openai.com/sora/videos/robot-video-game.mp4)
+
+> An extreme close-up of an gray-haired man with a beard in his 60s, he is deep in thought pondering the history of the universe as he sits at a cafe in Paris, his eyes focus on people offscreen as they walk as he sits mostly motionless, he is dressed in a wool coat suit coat with a button-down shirt , he wears a brown beret and glasses and has a very professorial appearance, and the end he offers a subtle closed-mouth smile as if he found the answer to the mystery of life, the lighting is very cinematic with the golden light and the Parisian streets and city in the background, depth of field, cinematic 35mm film.
+
+Generated Videos: [link](https://cdn.openai.com/sora/videos/closeup-man-in-glasses.mp4)
+
+> A beautiful silhouette animation shows a wolf howling at the moon, feeling lonely, until it finds its pack.
+
+Generated Videos: [link](https://cdn.openai.com/sora/videos/wolves.mp4)
+
+> New York City submerged like Atlantis. Fish, whales, sea turtles and sharks swim through the streets of New York.
+
+Generated Videos: [link](https://cdn.openai.com/sora/videos/aquarium-nyc.mp4)
+
+> A litter of golden retriever puppies playing in the snow. Their heads pop out of the snow, covered in.
+
+Generated Videos: [link](https://cdn.openai.com/sora/videos/snow-dogs.mp4)
+
+> The camera directly faces colorful buildings in Burano Italy. An adorable dalmation looks through a window on a building on the ground floor. Many people are walking and cycling along the canal streets in front of the buildings.
+
+Generated Videos: [link](https://cdn.openai.com/sora/videos/italian-pup.mp4)
+
+> An adorable happy otter confidently stands on a surfboard wearing a yellow lifejacket, riding along turquoise tropical waters near lush tropical islands, 3D digital render art style.
+
+Generated Videos: [link](https://cdn.openai.com/sora/videos/otter-on-surfboard.mp4)
+
+> This close-up shot of a chameleon showcases its striking color changing capabilities. The background is blurred, drawing attention to the animal’s striking appearance.
+
+Generated Videos: [link](https://cdn.openai.com/sora/videos/chameleon.mp4)
+
+> A corgi vlogging itself in tropical Maui.
+
+Generated Videos: [link](https://cdn.openai.com/sora/videos/vlogger-corgi.mp4)
+
+> A white and orange tabby cat is seen happily darting through a dense garden, as if chasing something. Its eyes are wide and happy as it jogs forward, scanning the branches, flowers, and leaves as it walks. The path is narrow as it makes its way between all the plants. the scene is captured from a ground-level angle, following the cat closely, giving a low and intimate perspective. The image is cinematic with warm tones and a grainy texture. The scattered daylight between the leaves and plants above creates a warm contrast, accentuating the cat’s orange fur. The shot is clear and sharp, with a shallow depth of field.
+
+Generated Videos: [link](https://cdn.openai.com/sora/videos/happy-cat.mp4)
+
+> Aerial view of Santorini during the blue hour, showcasing the stunning architecture of white Cycladic buildings with blue domes. The caldera views are breathtaking, and the lighting creates a beautiful, serene atmosphere.
+
+Generated Videos: [link](https://cdn.openai.com/sora/videos/santorini.mp4)
+
+> Tiltshift of a construction site filled with workers, equipment, and heavy machinery.
+
+Generated Videos: [link](https://cdn.openai.com/sora/videos/tiny-construction.mp4)
+
+> A giant, towering cloud in the shape of a man looms over the earth. The cloud man shoots lighting bolts down to the earth.
+
+Generated Videos: [link](https://cdn.openai.com/sora/videos/cloud-man.mp4)
+
+> A Samoyed and a Golden Retriever dog are playfully romping through a futuristic neon city at night. The neon lights emitted from the nearby buildings glistens off of their fur.
+
+Generated Videos: [link](https://cdn.openai.com/sora/videos/dogs-downtown.mp4)
+
+> The Glenfinnan Viaduct is a historic railway bridge in Scotland, UK, that crosses over the west highland line between the towns of Mallaig and Fort William. It is a stunning sight as a steam train leaves the bridge, traveling over the arch-covered viaduct. The landscape is dotted with lush greenery and rocky mountains, creating a picturesque backdrop for the train journey. The sky is blue and the sun is shining, making for a beautiful day to explore this majestic spot.
+
+Generated Videos: [link](https://cdn.openai.com/sora/videos/photoreal-train.mp4)
+
 </details>
 
 ## Official Video Generation Prompts (Twitter)
