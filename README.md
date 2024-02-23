@@ -46,6 +46,7 @@ By simply adding the following keywords, you can efficiently achieve the desired
 
 ## Stylized keyword
 > depth of field </br>
+> close-up shot </br>
 > The shot is clear and sharp, with a shallow depth of field </br>
 > vivid color </br>
 > cinematic </br>
