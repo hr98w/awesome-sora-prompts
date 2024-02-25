@@ -236,38 +236,135 @@ Generated Videos: [link](https://cdn.openai.com/sora/videos/photoreal-train.mp4)
 
 ## Official Video Generation Prompts (Twitter)
 
+<details>
+<summary>Click to see more examples</summary>
+
+> a red panda and a toucan are best friends taking a stroll through santorini during the blue hour
+
+Generated Videos: [link](https://x.com/_tim_brooks/status/1761236971186438178?s=20)
+
+> a scuba diver discovers a hidden futuristic shipwreck, with cybernetic marine life and advanced alien technology
+
+Generated Videos: [link](https://x.com/billpeeb/status/1761235907330400640?s=20)
+
+> Close-up of a majestic white dragon with pearlescent, silver-edged scales, icy blue eyes, elegant ivory horns, and misty breath. Focus on detailed facial features and textured scales, set against a softly blurred background
+
+Generated Videos: [link](https://x.com/hr98w/status/1761752242406019524?s=20)
+
+> in a beautifully rendered papercraft world, a steamboat travels across a vast ocean with wispy clouds in the sky. vast grassy hills lie in the distant background, and some sealife is visible near the papercraft ocean's surface
+
+Generated Videos: [link](https://x.com/billpeeb/status/1761235818515968314?s=20)
+
+> a man BASE jumping over tropical hawaii waters. His pet macaw flies alongside him
+
+Generated Videos: [link](https://x.com/_tim_brooks/status/1761235778875883810?s=20)
+
+> a dark neon rainforest aglow with fantastical fauna and animals
+
+Generated Videos: [link](https://x.com/_tim_brooks/status/1761235759464329278?s=20)
+
+> a tortoise whose body is made of glass, with cracks that have been repaired using kintsugi, is walking on a black sand beach at sunset
+
+Generated Videos: [link](https://x.com/model_mechanic/status/1761198301482021084?s=20)
+
+> cinematic trailer for a group of samoyed puppies learning to become chefs
+
+Generated Videos: [link](https://x.com/hr98w/status/1761752613111152977?s=20)
+
+> Cinematic trailer for a group of adventurous puppies exploring ruins in the sky
+
+Generated Videos: [link](https://x.com/_tim_brooks/status/1760168890959888818?s=20)
+
+> nighttime footage of a hermit crab using an incandescent lightbulb as its shell
+
+Generated Videos: [link](https://x.com/model_mechanic/status/1759343673484165262?s=20)
+
+> minecraft with the most gorgeous high res 8k texture pack ever
+
+Generated Videos: [link](https://x.com/_tim_brooks/status/1759125570825453785?s=20)
+
+> this close-up shot of a futuristic cybernetic german shepherd showcases its striking brown and black fur
+
+Generated Videos: [link](https://x.com/billpeeb/status/1759123245821817083?s=20)
+
+> pov footage of an ant navigating the inside of an ant nest
+
+Generated Videos: [link](https://x.com/model_mechanic/status/1759068809867166129?s=20)
+
+> macro shot of a leaf showing tiny trains moving through its veins
+
+Generated Videos: [link](https://x.com/model_mechanic/status/1758993960956219476?s=20)
+
+> a white and orange tabby alley cat is seen darting across a back street alley in a heavy rain, looking for shelter
+
+Generated Videos: [link](https://x.com/_tim_brooks/status/1758967853498450396?s=20)
+
+> a photorealistic video of a butterfly that can swim navigating underwater through a beautiful coral reef
+
+Generated Videos: [link](https://x.com/_tim_brooks/status/1758959726933774489?s=20)
+
+> a giant duck walks through the streets in Boston
+
+Generated Videos: [link](https://x.com/_tim_brooks/status/1758959404974760042?s=20)
+
+> The camera lowers and widens to a grand panoramic view overlooking the beautiful ocean and the historical buildings along the a stunning coastal picturesque town perched on the cliffs
+
+Generated Videos: [link](https://x.com/billpeeb/status/1758958132615619005?s=20)
+
+> a walking figure made out of water tours an art gallery with many beautiful works of art in different styles
+
+Generated Videos: [link](https://x.com/_tim_brooks/status/1758666264032280683?s=20)
+
+> a green blob and an orange blob are in love and dancing together
+
+Generated Videos: [link](https://x.com/_tim_brooks/status/1758662698190229643?s=20)
+
+> a spooky haunted mansion, with friendly jack o lanterns and ghost characters welcoming trick or treaters to the entrance, tilt shift photography
+
+Generated Videos: [link](https://x.com/billpeeb/status/1758658884582142310?s=20)
+
+> a giant cathedral is completely filled with cats. there are cats everywhere you look. a man enters the cathedral and bows before the giant cat king sitting on a throne
+
+Generated Videos: [link](https://x.com/_tim_brooks/status/1758655677864845707?s=20)
+
+> realistic video of people relaxing at beach, then a shark jumps out of the water halfway through and surprises everyone
+
+Generated Videos: [link](https://x.com/_tim_brooks/status/1758655323576164830?s=20)
+
+</details>
+
 ## Official Video Generation Prompts (Tiktok)
 
 <details>
 <summary>Click to see more examples</summary>
 
-> 1.Tiny potato kings wearing majestic crowns, sitting on thrones, overseeing their vast potato kingdom filled with potato subjects and potato castles.
+> 1. Tiny potato kings wearing majestic crowns, sitting on thrones, overseeing their vast potato kingdom filled with potato subjects and potato castles.
 > 2. A minimap diorama of a cafe adorned with indoor plants. Wooden beams crisscross above, and a cold brew station stands out with tiny bottles and glasses. 
 > 3. An image of a realistic cloud that spells “SORA.”
 
 Generated Videos: [link](https://www.tiktok.com/@openai/video/7336623342721486122)
 
-> Monkey playing chess in a park.	
+> Monkey playing chess in a park.
 
 Generated Videos: [link](https://www.tiktok.com/@openai/video/7336976814272695598)
 
-> Macro shot of a leaf showing tiny trains moving through its veins.	
+> Macro shot of a leaf showing tiny trains moving through its veins.
 
 Generated Videos: [link](https://www.tiktok.com/@openai/video/7337337783700360494)
 
-> A computer hacker labrador retreiver wearing a black hooded sweatshirt sitting in front of the computer with the glare of the screen emanating on the dog's face as he types very quickly.	
+> A computer hacker labrador retreiver wearing a black hooded sweatshirt sitting in front of the computer with the glare of the screen emanating on the dog's face as he types very quickly.
 
 Generated Videos: [link](https://www.tiktok.com/@openai/video/7337475894115700011)
 
-> A low to the ground camera closely following ants in the jungle down into the ground into their world.	
+> A low to the ground camera closely following ants in the jungle down into the ground into their world.
 
 Generated Videos: [link](https://www.tiktok.com/@openai/video/7337532544491130158)
 
-> Leaning tower of pizza.	
+> Leaning tower of pizza.
 
 Generated Videos: [link](https://www.tiktok.com/@openai/video/7337782565870357803)
 
-> A low-quality, visually disappointing superbowl commercial.	
+> A low-quality, visually disappointing superbowl commercial.
 
 Generated Videos: [link](https://www.tiktok.com/@openai/video/7337862463951654190)
 
