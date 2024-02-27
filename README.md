@@ -12,8 +12,7 @@ Sora can provide following functions:
 * connecting videos
 * image generation (text to image)
 
-📖 In this repository, you will find a variety of prompts that can be used with Sora. We have assigned different tags based on the style of the videos, allowing you to quickly find examples of prompts and the generated videos according to the tags, and modify them as needed.
-
+📖 In this repository, you will find a variety of prompts that can be used with Sora. You can find examples of prompts and the generated videos, and modify them as needed.
 
 While Sora is not yet officially released, we are gathering prompts comprehensively to help you quickly get started generating the videos you want with Sora. We hope you find these prompts useful and have fun using Sora!
 
@@ -21,7 +20,11 @@ While Sora is not yet officially released, we are gathering prompts comprehensiv
 
 **[View on Website](https://prompts-sora.com)**
 
+---
+# 🎉 New: Sora Prompts Generator
+I've developed a [Sora Prompts Generator](https://prompts-sora.com/generator) based on the prompts in this repository. I input the verified and effective prompts into Gemini, allowing it to generate more detailed prompts for us. Feel free to click [here](https://prompts-sora.com/generator) to use it, and welcome to contribute more useful prompts to this repository.
 
+You are also welcome to use the prompts in this repository to develop your own app.
 
 ---
 # Table of Content
