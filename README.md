@@ -21,8 +21,8 @@ While Sora is not yet officially released, we are gathering prompts comprehensiv
 **[View on Website](https://prompts-sora.com)**
 
 ---
-# 🎉 New: Sora Prompts Generator
-I've developed a [Sora Prompts Generator](https://prompts-sora.com/generator) based on the prompts in this repository. I input the verified and effective prompts into Gemini, allowing it to generate more detailed prompts for us. Feel free to click [here](https://prompts-sora.com/generator) to use it, and welcome to contribute more useful prompts to this repository.
+# 🎉 New: Sora Prompt Generator
+I've developed a [Sora Prompt Generator](https://prompts-sora.com/generator) based on the prompts in this repository. I input the verified and effective prompts into Gemini, allowing it to generate more detailed prompt for us. Feel free to click [here](https://prompts-sora.com/generator) to use it, and welcome to contribute more useful prompts to this repository.
 
 You are also welcome to use the prompts in this repository to develop your own app.
 
