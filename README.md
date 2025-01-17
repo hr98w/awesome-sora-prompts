@@ -31,6 +31,7 @@ To help you find the right tool for your needs, we've created a list of alternat
 | **[Gling](https://gling.ai/?via=sora)**  | - Automatic video editing for YouTubers<br>- Scene detection & trimming<br>- User-friendly workflow              | Free/$10/$20        | Great for YouTubers aiming to save time on editing while maintaining high-quality output.             |  
 | **[Quso](https://quso.ai?via=9e3e1)**        | - AI-powered storytelling<br>- Scene design and rendering<br>- Supports team collaboration                        | Free/$10/$21/$25     | Ideal for creative teams looking to craft compelling narratives with advanced design tools.           |  
 | **[Vizard](https://vizard.ai/?via=sora)**    | - AI script-to-video generation<br>- Customizable video templates<br>- Real-time editing                          | Free/$16/$32        | A versatile choice for businesses creating professional training or promotional videos.               |  
+| **[Pictory](https://pictory.ai?ref=haoran-wang59)** | - AI video creation from scripts<br>- Automatic summarization<br>- Voiceover synchronization | Free/$19/$39/$99 | Perfect for businesses and creators needing to turn long-form content into short, engaging videos effortlessly. |
 
 
 # Table of Content
