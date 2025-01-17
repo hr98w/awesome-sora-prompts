@@ -17,7 +17,7 @@ Sora can provide following functions:
 
 **[View on Website](https://prompts-sora.com)**
 
-## 🚀 **AI Video Generator Comparison**  
+## 🚀 **OpenAI Sora Alternatives**  
 
 Sora is officially released recently, but its premium pricing plans **($20 and $200/month)** may not suit everyone's budget.
 
