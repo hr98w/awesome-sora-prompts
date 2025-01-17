@@ -10,15 +10,28 @@ Sora can provide following functions:
 * extending generated videos
 * video to video editing
 * connecting videos
-* image generation (text to image)
 
 📖 In this repository, you will find a variety of prompts that can be used with Sora. You can find examples of prompts and the generated videos, and modify them as needed.
-
-While Sora is not yet officially released, we are gathering prompts comprehensively to help you quickly get started generating the videos you want with Sora. We hope you find these prompts useful and have fun using Sora!
 
 **[View on Github](https://github.com/hr98w/awesome-sora-prompts)**
 
 **[View on Website](https://prompts-sora.com)**
+
+## 🚀 **AI Video Generator Comparison**  
+
+Sora is officially released recently, but its premium pricing plans **($20 and $200/month)** may not suit everyone's budget.
+
+To help you find the right tool for your needs, we've created a list of alternative video generation platforms, showcasing their standout features, pricing, and unique benefits. Whether you're looking for affordable options, specialized video effects, or easy-to-use interfaces, we’ve got you covered.
+
+
+
+| **Name**       | **Key Features**                                                                                 | **Pricing(monthly)**        | **Why Choose It**                                                                                     |  
+|---------------------|-------------------------------------------------------------------------------------------------|--------------------|-------------------------------------------------------------------------------------------------------|  
+| **[Fliki](https://fliki.ai/?via=promptsora)**      | - AI text-to-video creation<br>- Idea to video <br>- Image to video  | Free/$21/$66         | Perfect for content creators and marketers needing quick and engaging videos with professional voiceovers. |  
+| **[Gling](https://gling.ai/?via=sora)**  | - Automatic video editing for YouTubers<br>- Scene detection & trimming<br>- User-friendly workflow              | Free/$10/$20        | Great for YouTubers aiming to save time on editing while maintaining high-quality output.             |  
+| **[Quso](https://quso.ai?via=9e3e1)**        | - AI-powered storytelling<br>- Scene design and rendering<br>- Supports team collaboration                        | Free/$10/$21/$25     | Ideal for creative teams looking to craft compelling narratives with advanced design tools.           |  
+| **[Vizard](https://vizard.ai/?via=sora)**    | - AI script-to-video generation<br>- Customizable video templates<br>- Real-time editing                          | Free/$16/$32        | A versatile choice for businesses creating professional training or promotional videos.               |  
+
 
 # Table of Content
 This repository is organized as follows:
