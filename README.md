@@ -17,7 +17,7 @@ Sora can provide following functions:
 
 **[View on Website](https://prompts-sora.com)**
 
-## 🚀 Checkout our latest [Sora Prompt Library](https://videoprompt.app/prompts/sora)
+## 👉 [Sora2 Prompt Library](https://videoprompt.app/prompts/sora2) 👈
 
 ## 🚀 **OpenAI Sora Alternatives**  
 
