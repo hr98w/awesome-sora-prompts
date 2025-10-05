@@ -28,7 +28,7 @@ To help you find the right tool for your needs, we've created a list of alternat
 
 | **Name**       | **Key Features**                                                                                 | **Pricing(monthly)**        | **Why Choose It**                                                                                     |  
 |---------------------|-------------------------------------------------------------------------------------------------|--------------------|-------------------------------------------------------------------------------------------------------|  
-| **[VideoPrompt](https://videoprompt.app/waitlist)**  | - All-in-one video generation website |  Coming Soon   | One-Stop choice, including Sora, Veo3, Seedance, Runway, etc.   |
+| **🚀[VideoPrompt](https://videoprompt.app)**  | - All-in-one video generation website |  **✨ Free**    | **Free to generate videos for new users**  |
 | **[Pollo.ai](https://pollo.ai/?ref=mjaxmwv)**  | - AI-driven customer support chatbot<br>- Natural language processing (NLP)<br>- Integration with multiple platforms |  Free/$10/$25   | Ideal for businesses seeking to automate and enhance customer interactions with AI-powered support.   |  
 | **[Fliki](https://fliki.ai/?via=promptsora)**      | - AI text-to-video creation<br>- Idea to video <br>- Image to video  | Free/$21/$66         | Perfect for content creators and marketers needing quick and engaging videos with professional voiceovers. |  
 | **[Gling](https://gling.ai/?via=sora)**  | - Automatic video editing for YouTubers<br>- Scene detection & trimming<br>- User-friendly workflow              | Free/$10/$20        | Great for YouTubers aiming to save time on editing while maintaining high-quality output.             |  
